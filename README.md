@@ -20,4 +20,7 @@ Any contributions made under this project will be governed by the [Apache Licens
 This project adheres to the [American Express Community Guidelines](https://github.com/americanexpress/amex-api-java-client-core/wiki/Code-of-Conduct). By participating, you are expected to honor these guidelines.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-85897603-1/amex-api-java-client-core/README.md?useReferrer)](https://github.com/americanexpress/amex-api-java-client-core)
-<!-- GitAds-Verify: 56X4AIP2NVQ6NG2R2F97U3JSLH4TPGFO -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/amex-api-java-client-core@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/amex-api-java-client-core@github)
+
